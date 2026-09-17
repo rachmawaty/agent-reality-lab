@@ -1,0 +1,7 @@
+archive/
+memory.md
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+__pycache__/
+*.pyc
